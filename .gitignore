@@ -1,0 +1,6 @@
+7zip/
+build/
+build_*/
+cmake-build-debug/
+dist/
+prebuilt/
